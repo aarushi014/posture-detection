@@ -61,15 +61,15 @@ python src/main.py
 
 ### Good Posture
 
-![Good Posture](outputs/good_posture.png)
+![Good Posture](GoodPosture.jpeg)
 
 ### Bad Posture
 
-![Bad Posture](outputs/bad_posture.png)
+![Bad Posture](BadPosture.jpeg)
 
 ### Alert Condition
 
-![Alert](outputs/alert.png)
+![Alert](AlertSign.jpeg)
 
 ## 9. Results
 
